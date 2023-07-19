@@ -13,7 +13,3 @@
 ## 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/fak1rr/badges/large)
-
-## ⚙️ Github stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fak1r&layout=donut&theme=vision-friendly-dark)
