@@ -1,16 +1,19 @@
-### Hi there 👋
+# ℕ𝕒𝕞𝕒𝕤𝕥𝕖🙏
+## :man_technologist: About:
+### I started my way in IT with PHP, but later I was more interested in JavaScript. 
+### Now I am working with Vanilla JS, Vue.js framework, layout and design.
 
-<!--
-**fak1r/fak1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Contacts:
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://t.me/fak1rr"><img src="icons/telegram.svg" title="telegram" alt="telegram" width="48" height="48"></a>
+  <a href="mailto:fakir.rzx@gmail.com"><img src="icons/gmail.svg" title="gmail" alt="gmail" width="48" height="48"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/fak1rr/badges/large)
+
+## Github stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fak1r&layout=donut&theme=vision-friendly-dark)
