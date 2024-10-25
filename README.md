@@ -1,14 +1,14 @@
 # ℕ𝕒𝕞𝕒𝕤𝕥𝕖🙏
 
-<div style="width: 100%;">
-  <img src="./img/90afe999289fd34ca9faf8ecec68a8.gif"  />
+<div style="width: 100%; pointer-events: none; user-select: none;">
+  <img src="./img/90afe999289fd34ca9faf8ecec68a8.gif" alt="neon" />
 </div>
 
 ## 💻 About:
 
-### I started my way in IT with PHP, but later I was more interested in JavaScript.
+### I started my journey in IT with PHP but later found myself more interested in JavaScript.
 
-### Now I am working with Vanilla JS, Vue.js framework, layout and design.
+### Now, I work with Vanilla JS, Vue 2-3, layout, and design.
 
 ## 💻 Codewars:
 
