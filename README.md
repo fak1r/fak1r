@@ -10,7 +10,7 @@
 
 ### Now, I work with Vanilla JS, Vue 2-3, layout, and design.
 
-## 💻 Codewars:
+## ⚔️ Codewars:
 
 ![codewars](https://www.codewars.com/users/fak1rr/badges/large)
 
