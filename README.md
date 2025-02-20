@@ -1,6 +1,6 @@
 # ℕ𝕒𝕞𝕒𝕤𝕥𝕖🙏
 
-<div style="width: 100%; pointer-events: none; user-select: none;">
+<div style="width: 100%;">
   <img src="./img/90afe999289fd34ca9faf8ecec68a8.gif" alt="neon" />
 </div>
 
@@ -13,3 +13,7 @@
 ## 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/fak1rr/badges/large)
+
+<div align="center" style="width: 1000px">
+  <img src="img/readme.svg" width="200" height="200" alt="readme-example-image">
+</div>
